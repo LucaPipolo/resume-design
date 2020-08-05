@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1021px" height="1333px" viewBox="0 0 1021 1333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Base</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="30" rx="5"></rect>
+        <rect id="path-3" x="0" y="0" width="140" height="30" rx="5"></rect>
+        <rect id="path-5" x="0" y="0" width="140" height="30" rx="5"></rect>
+        <rect id="path-7" x="0" y="0" width="200" height="50" rx="5"></rect>
+        <rect id="path-9" x="0" y="0" width="200" height="50" rx="5"></rect>
+        <rect id="path-11" x="0" y="0" width="200" height="50" rx="5"></rect>
+        <rect id="path-13" x="0" y="0" width="150" height="60"></rect>
+    </defs>
+    <g id="Styleguides" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Base">
+            <rect fill="#FFFFFF" x="0" y="0" width="1021" height="1333"></rect>
+            <g id="base/texts" transform="translate(146.000000, 881.000000)">
+                <text id="base/heading/1" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="92">Type something</tspan>
+                </text>
+                <text id="base/heading/2" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="149">Type something</tspan>
+                </text>
+                <text id="base/heading/3" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                    <tspan x="0" y="194">TYPE SOMETHING</tspan>
+                </text>
+                <text id="base/paragraph/normal" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                    <tspan x="0" y="269">Type something</tspan>
+                </text>
+                <text id="base/heading/4" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
+                    <tspan x="0" y="231">Type something</tspan>
+                </text>
+                <text id="base/footer/copyright" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                    <tspan x="0" y="379">Footer copyright</tspan>
+                </text>
+                <text id="base/paragraph/intro" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300" fill="#000000">
+                    <tspan x="388" y="84">Sono un Web Developer versatile ed </tspan>
+                    <tspan x="388" y="109">appassionato.</tspan>
+                    <tspan x="388" y="164">Amo scrivere codice elegante ed </tspan>
+                    <tspan x="388" y="189">efficiente.</tspan>
+                    <tspan x="388" y="244">Scegliere il nome di una variabile, </tspan>
+                    <tspan x="388" y="269">creare una funzione performante, </tspan>
+                    <tspan x="388" y="294">strutturare chiaramente i componenti </tspan>
+                    <tspan x="388" y="319">di un sito web, scrivere un test </tspan>
+                    <tspan x="388" y="344">efficace. Non è forse arte? </tspan>
+                    <tspan x="643.900391" y="344" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
+                </text>
+                <text id="org/heading-text" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300" fill="#000000">
+                    <tspan x="0" y="20">T E X T S</tspan>
+                </text>
+                <text id="base/button/black" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="307">Button text</tspan>
+                </text>
+                <text id="base/button/white" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="0" y="345">Button text</tspan>
+                </text>
+            </g>
+            <g id="base/buttons" transform="translate(146.000000, 594.000000)">
+                <g id="atom/button/small/hollow" transform="translate(330.000000, 144.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <rect stroke="#000000" x="0.5" y="0.5" width="139" height="29" rx="5"></rect>
+                    <g id="Group" mask="url(#mask-2)" fill="#FFFFFF" fill-opacity="0.2">
+                        <g id="button/state">
+                            <rect id="state/hover" x="0" y="0" width="140" height="30"></rect>
+                        </g>
+                    </g>
+                    <text id="button/text" mask="url(#mask-2)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                        <tspan x="25" y="21">Contact me</tspan>
+                    </text>
+                </g>
+                <g id="atom/button/small/icon" transform="translate(166.000000, 143.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="button/mask" fill="#000000" xlink:href="#path-3"></use>
+                    <g id="button/content" mask="url(#mask-4)">
+                        <g transform="translate(12.000000, 5.000000)">
+                            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(96.000000, 0.000000)">
+                                <g id="atom/icon/envelope" fill="#FFFFFF">
+                                    <path d="M16.9,4 L3.9,4 C3.0715625,4 2.4,4.6715625 2.4,5.5 L2.4,14.5 C2.4,15.3284375 3.0715625,16 3.9,16 L16.9,16 C17.7284375,16 18.4,15.3284375 18.4,14.5 L18.4,5.5 C18.4,4.6715625 17.7284375,4 16.9,4 Z M16.9,5.5 L16.9,6.77515625 C16.1993125,7.34575 15.08225,8.233 12.6941563,10.1029688 C12.167875,10.5169375 11.125375,11.5114688 10.4,11.499875 C9.67475,11.5115938 8.63190625,10.5167813 8.10584375,10.1029688 C5.718125,8.23328125 4.60078125,7.34584375 3.9,6.77515625 L3.9,5.5 L16.9,5.5 Z M3.9,14.5 L3.9,8.6999375 C4.6160625,9.27028125 5.63153125,10.070625 7.1793125,11.282625 C7.86234375,11.8202813 9.0585,13.0071875 10.4,12.9999688 C11.7349063,13.0071875 12.9159063,11.8375 13.6204063,11.282875 C15.1681563,10.0709063 16.1839063,9.27034375 16.9,8.6999375 L16.9,14.5 L3.9,14.5 Z" id="icon/envelope"></path>
+                                </g>
+                            </g>
+                            <text id="button/text" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                                <tspan x="0" y="16" fill="#FFFFFF">Contact me</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="atom/button/small/normal" transform="translate(0.000000, 143.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="button/mask" fill="#000000" xlink:href="#path-5"></use>
+                    <text id="button/text" mask="url(#mask-6)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="25" y="21">Contact me</tspan>
+                    </text>
+                </g>
+                <g id="atom/button/large/hollow" transform="translate(471.000000, 59.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <rect stroke="#000000" x="0.5" y="0.5" width="199" height="49" rx="5"></rect>
+                    <g id="Group" mask="url(#mask-8)" fill="#FFFFFF" fill-opacity="0.2">
+                        <g id="base/state">
+                            <rect id="state/hover" x="0" y="0" width="200" height="50"></rect>
+                        </g>
+                    </g>
+                    <text id="button/text" mask="url(#mask-8)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                        <tspan x="59" y="31">Contact me</tspan>
+                    </text>
+                </g>
+                <g id="atom/button/large/icon" transform="translate(237.000000, 60.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="button/mask" fill="#000000" xlink:href="#path-9"></use>
+                    <g id="Group" mask="url(#mask-10)" fill="#000000" fill-opacity="0.2">
+                        <g id="base/state">
+                            <rect id="state/active" x="0" y="0" width="200" height="50"></rect>
+                        </g>
+                    </g>
+                    <g id="button/content" mask="url(#mask-10)">
+                        <g transform="translate(40.000000, 13.000000)">
+                            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(96.000000, 0.000000)">
+                                <g id="atom/icon/envelope" fill="#FFFFFF">
+                                    <path d="M21.125,5 L4.875,5 C3.83945312,5 3,5.83945312 3,6.875 L3,18.125 C3,19.1605469 3.83945312,20 4.875,20 L21.125,20 C22.1605469,20 23,19.1605469 23,18.125 L23,6.875 C23,5.83945312 22.1605469,5 21.125,5 Z M21.125,6.875 L21.125,8.46894531 C20.2491406,9.1821875 18.8528125,10.29125 15.8676953,12.6287109 C15.2098437,13.1461719 13.9067187,14.3893359 13,14.3748438 C12.0934375,14.3894922 10.7898828,13.1459766 10.1323047,12.6287109 C7.14765625,10.2916016 5.75097656,9.18230469 4.875,8.46894531 L4.875,6.875 L21.125,6.875 Z M4.875,18.125 L4.875,10.8749219 C5.77007812,11.5878516 7.03941406,12.5882812 8.97414063,14.1032812 C9.82792969,14.7753516 11.323125,16.2589844 13,16.2499609 C14.6686328,16.2589844 16.1448828,14.796875 17.0255078,14.1035937 C18.9601953,12.5886328 20.2298828,11.5879297 21.125,10.8749219 L21.125,18.125 L4.875,18.125 Z" id="icon/envelope"></path>
+                                </g>
+                            </g>
+                            <text id="button/text" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                                <tspan x="0" y="18" fill="#FFFFFF">Contact me</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="atom/button/large/normal" transform="translate(1.000000, 60.333333)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="button/mask" fill="#000000" xlink:href="#path-11"></use>
+                    <text id="button/text" mask="url(#mask-12)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="59" y="31">Contact me</tspan>
+                    </text>
+                </g>
+                <text id="org/heading-buttons" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300" fill="#000000">
+                    <tspan x="1" y="20">B U T T O N S</tspan>
+                </text>
+            </g>
+            <g id="base/states" transform="translate(146.000000, 354.000000)">
+                <g id="state/disabled" transform="translate(388.000000, 60.666667)">
+                    <use fill="#000000" xlink:href="#path-13"></use>
+                    <use fill-opacity="0.7" fill="#FFFFFF" xlink:href="#path-13"></use>
+                </g>
+                <g id="Group" transform="translate(194.000000, 60.666667)" fill="#000000" fill-opacity="0.2">
+                    <g id="state/active">
+                        <rect x="0" y="0" width="150" height="60"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 60.666667)" fill="#FFFFFF" fill-opacity="0.2">
+                    <g id="state/hover">
+                        <rect x="0" y="0" width="150" height="60"></rect>
+                    </g>
+                </g>
+                <text id="org/heading-states" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300" fill="#000000">
+                    <tspan x="0" y="20">S T A T E S</tspan>
+                </text>
+            </g>
+            <g id="base/colours" transform="translate(146.000000, 64.000000)">
+                <g id="color/hollow" transform="translate(601.000000, 60.000000)" stroke="#000000">
+                    <rect x="0.5" y="0.5" width="110" height="110" rx="5"></rect>
+                </g>
+                <g id="color/primary" transform="translate(445.000000, 60.000000)" fill="#000000">
+                    <rect x="0" y="0" width="111" height="111"></rect>
+                </g>
+                <g id="color/accent" transform="translate(290.000000, 60.000000)" fill="#F7EB89">
+                    <rect x="0" y="0" width="111" height="111"></rect>
+                </g>
+                <g id="color/grey" transform="translate(135.000000, 60.000000)" fill="#F7F7F7">
+                    <rect x="0" y="0" width="111" height="111"></rect>
+                </g>
+                <g id="color/white" transform="translate(0.000000, 60.000000)" fill="#FFFFFF">
+                    <rect x="0" y="0" width="111" height="111"></rect>
+                </g>
+                <text id="org/heading-colours" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300" fill="#000000">
+                    <tspan x="0" y="20">C O L O U R S</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
