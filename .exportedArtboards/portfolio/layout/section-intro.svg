@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="414px" height="934px" viewBox="0 0 414 934" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>iPhone 8</title>
+<svg width="370px" height="668px" viewBox="0 0 370 668" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layout/section-intro</title>
     <defs>
-        <rect id="path-1" x="0" y="0" width="414" height="60"></rect>
-        <filter x="-31.4%" y="-183.3%" width="162.8%" height="533.3%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="40" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-3" x="0" y="0" width="140" height="30" rx="5"></rect>
+        <rect id="path-1" x="0" y="0" width="265" height="50" rx="5"></rect>
+        <rect id="path-3" x="0" y="0" width="265" height="50" rx="5"></rect>
     </defs>
-    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="iPhone-8">
-            <g id="Group" transform="translate(22.000000, 496.000000)" fill="#000000">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="layout/section-intro">
+            <g id="intro/cta" transform="translate(0.000000, 550.000000)">
+                <g id="atom/button/send-me-an-email" transform="translate(0.000000, 68.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="button/mask" fill="#000000" xlink:href="#path-1"></use>
+                    <g id="button/content" mask="url(#mask-2)">
+                        <g transform="translate(42.063492, 13.000000)">
+                            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(156.279762, 0.000000)">
+                                <g id="atom/icon/envelope" fill="#FFFFFF">
+                                    <path d="M21.125,5 L4.875,5 C3.83945312,5 3,5.83945312 3,6.875 L3,18.125 C3,19.1605469 3.83945312,20 4.875,20 L21.125,20 C22.1605469,20 23,19.1605469 23,18.125 L23,6.875 C23,5.83945312 22.1605469,5 21.125,5 Z M21.125,6.875 L21.125,8.46894531 C20.2491406,9.1821875 18.8528125,10.29125 15.8676953,12.6287109 C15.2098437,13.1461719 13.9067187,14.3893359 13,14.3748438 C12.0934375,14.3894922 10.7898828,13.1459766 10.1323047,12.6287109 C7.14765625,10.2916016 5.75097656,9.18230469 4.875,8.46894531 L4.875,6.875 L21.125,6.875 Z M4.875,18.125 L4.875,10.8749219 C5.77007812,11.5878516 7.03941406,12.5882812 8.97414063,14.1032812 C9.82792969,14.7753516 11.323125,16.2589844 13,16.2499609 C14.6686328,16.2589844 16.1448828,14.796875 17.0255078,14.1035937 C18.9601953,12.5886328 20.2298828,11.5879297 21.125,10.8749219 L21.125,18.125 L4.875,18.125 Z" id="icon/envelope"></path>
+                                </g>
+                            </g>
+                            <text id="button/text" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                                <tspan x="0" y="18" fill="#FFFFFF">Send me an e-mail</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="atom/button/download-my-cv">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <rect stroke="#000000" x="0.5" y="0.5" width="264" height="49" rx="5"></rect>
+                    <g id="button/content" mask="url(#mask-4)">
+                        <g transform="translate(44.351464, 13.000000)">
+                            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(151.046025, 0.000000)">
+                                <g id="atom/icon/envelope" fill="#000000">
+                                    <path d="M11.4375,3 L14.5625,3 C15.0820312,3 15.5,3.41796875 15.5,3.9375 L15.5,10.5 L18.9257812,10.5 C19.6210937,10.5 19.96875,11.3398438 19.4765625,11.8320312 L13.5351562,17.7773438 C13.2421875,18.0703125 12.7617187,18.0703125 12.46875,17.7773438 L6.51953125,11.8320312 C6.02734375,11.3398438 6.375,10.5 7.0703125,10.5 L10.5,10.5 L10.5,3.9375 C10.5,3.41796875 10.9179687,3 11.4375,3 Z M23,17.6875 L23,22.0625 C23,22.5820312 22.5820312,23 22.0625,23 L3.9375,23 C3.41796875,23 3,22.5820312 3,22.0625 L3,17.6875 C3,17.1679688 3.41796875,16.75 3.9375,16.75 L9.66796875,16.75 L11.5820312,18.6640625 C12.3671875,19.4492188 13.6328125,19.4492188 14.4179687,18.6640625 L16.3320312,16.75 L22.0625,16.75 C22.5820312,16.75 23,17.1679688 23,17.6875 Z M18.15625,21.125 C18.15625,20.6953125 17.8046875,20.34375 17.375,20.34375 C16.9453125,20.34375 16.59375,20.6953125 16.59375,21.125 C16.59375,21.5546875 16.9453125,21.90625 17.375,21.90625 C17.8046875,21.90625 18.15625,21.5546875 18.15625,21.125 Z M20.65625,21.125 C20.65625,20.6953125 20.3046875,20.34375 19.875,20.34375 C19.4453125,20.34375 19.09375,20.6953125 19.09375,21.125 C19.09375,21.5546875 19.4453125,21.90625 19.875,21.90625 C20.3046875,21.90625 20.65625,21.5546875 20.65625,21.125 Z" id="icon/download"></path>
+                                </g>
+                            </g>
+                            <text id="button/text" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                                <tspan x="0" y="18" fill="#000000">Download my CV</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(0.000000, 389.000000)" fill="#000000">
                 <g transform="translate(0.000000, 100.000000)" id="molecule/social-link/medium">
                     <g id="icon/medium">
                         <path d="M3,3 L3,23 L23,23 L23,3 L3,3 Z M19.6160714,7.73660714 L18.5446429,8.76339286 C18.4508929,8.83482143 18.40625,8.95089286 18.4241071,9.0625 L18.4241071,16.6205357 C18.40625,16.7366071 18.4508929,16.8526786 18.5446429,16.9196429 L19.59375,17.9464286 L19.59375,18.1741071 L14.3258929,18.1741071 L14.3258929,17.9553571 L15.4107143,16.9017857 C15.5178571,16.7946429 15.5178571,16.7633929 15.5178571,16.6026786 L15.5178571,10.4910714 L12.5,18.1517857 L12.09375,18.1517857 L8.58035714,10.4910714 L8.58035714,15.625 C8.54910714,15.8392857 8.625,16.0580357 8.77678571,16.2142857 L10.1875,17.9241071 L10.1875,18.1517857 L6.17857143,18.1517857 L6.17857143,17.9241071 L7.58928571,16.2142857 C7.74107143,16.0580357 7.80803571,15.8392857 7.77232143,15.625 L7.77232143,9.6875 C7.79017857,9.52232143 7.72767857,9.36160714 7.60267857,9.25 L6.34821429,7.73660714 L6.34821429,7.50892857 L10.2455357,7.50892857 L13.2544643,14.1160714 L15.9017857,7.51339286 L19.6160714,7.51339286 L19.6160714,7.73660714 Z"></path>
@@ -59,56 +92,22 @@
                     </text>
                 </g>
             </g>
-            <text id="content/text" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300" fill="#000000">
-                <tspan x="22" y="195">I am a passionate and versatile Web </tspan>
-                <tspan x="22" y="220">Developer.</tspan>
-                <tspan x="22" y="275">I love to write elegant and efficient </tspan>
-                <tspan x="22" y="300">code.</tspan>
-                <tspan x="22" y="355">Choosing the name of a variable, </tspan>
-                <tspan x="22" y="380">creating a performance function, </tspan>
-                <tspan x="22" y="405">clearly structuring the components of </tspan>
-                <tspan x="22" y="430">a website, writing an effective test. </tspan>
-                <tspan x="22" y="455">Isn't that art? </tspan>
-                <tspan x="152.173828" y="455" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
-            </text>
-            <text id="content/heading" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#000000">
-                <tspan x="22" y="146">&lt;Luca Pipolo&gt;</tspan>
-            </text>
-            <g id="Group">
-                <g id="navigation/shape">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                </g>
-                <line x1="0" y1="64" x2="190" y2="64" id="navigation/load-bar" stroke="#000000" stroke-width="8" stroke-linecap="square"></line>
-                <g id="navigation/burger/open" transform="translate(372.000000, 21.000000)" stroke="#000000" stroke-linecap="square" stroke-width="2">
-                    <line x1="10" y1="16.5" x2="19" y2="16.5" id="burger/line"></line>
-                    <line x1="6.59194921e-17" y1="8.5" x2="19" y2="8.5" id="burger/line"></line>
-                    <line x1="6.59194921e-17" y1="0.5" x2="19" y2="0.5" id="burger/line"></line>
-                </g>
-                <g transform="translate(210.000000, 16.000000)" id="atom/button/small/icon">
-                    <mask id="mask-4" fill="white">
-                        <use xlink:href="#path-3"></use>
-                    </mask>
-                    <use id="button/mask" fill="#000000" xlink:href="#path-3"></use>
-                    <g id="button/content" mask="url(#mask-4)">
-                        <g transform="translate(12.000000, 5.000000)">
-                            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(96.000000, 0.000000)">
-                                <g id="atom/icon/envelope" fill="#FFFFFF">
-                                    <path d="M16.9,4 L3.9,4 C3.0715625,4 2.4,4.6715625 2.4,5.5 L2.4,14.5 C2.4,15.3284375 3.0715625,16 3.9,16 L16.9,16 C17.7284375,16 18.4,15.3284375 18.4,14.5 L18.4,5.5 C18.4,4.6715625 17.7284375,4 16.9,4 Z M16.9,5.5 L16.9,6.77515625 C16.1993125,7.34575 15.08225,8.233 12.6941563,10.1029688 C12.167875,10.5169375 11.125375,11.5114688 10.4,11.499875 C9.67475,11.5115938 8.63190625,10.5167813 8.10584375,10.1029688 C5.718125,8.23328125 4.60078125,7.34584375 3.9,6.77515625 L3.9,5.5 L16.9,5.5 Z M3.9,14.5 L3.9,8.6999375 C4.6160625,9.27028125 5.63153125,10.070625 7.1793125,11.282625 C7.86234375,11.8202813 9.0585,13.0071875 10.4,12.9999688 C11.7349063,13.0071875 12.9159063,11.8375 13.6204063,11.282875 C15.1681563,10.0709063 16.1839063,9.27034375 16.9,8.6999375 L16.9,14.5 L3.9,14.5 Z" id="icon/envelope"></path>
-                                </g>
-                            </g>
-                            <text id="button/text" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
-                                <tspan x="6.65234375" y="16" fill="#FFFFFF">Contact me</tspan>
-                            </text>
-                        </g>
-                    </g>
-                </g>
-                <g transform="translate(22.000000, 13.000000)">
-                    <circle id="logo/shape" fill="#000000" cx="16.5" cy="16.5" r="16.5"></circle>
-                    <text id="logo/text" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="9.97412109" y="21">LP</tspan>
-                    </text>
-                </g>
+            <g id="intro/content" fill="#000000">
+                <text id="content/text" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300">
+                    <tspan x="0" y="88">I am a passionate and versatile Web </tspan>
+                    <tspan x="0" y="113">Developer.</tspan>
+                    <tspan x="0" y="168">I love to write elegant and efficient </tspan>
+                    <tspan x="0" y="193">code.</tspan>
+                    <tspan x="0" y="248">Choosing the name of a variable, </tspan>
+                    <tspan x="0" y="273">creating a performance function, </tspan>
+                    <tspan x="0" y="298">clearly structuring the components of </tspan>
+                    <tspan x="0" y="323">a website, writing an effective test. </tspan>
+                    <tspan x="0" y="348">Isn't that art? </tspan>
+                    <tspan x="130.173828" y="348" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
+                </text>
+                <text id="content/heading" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold">
+                    <tspan x="0" y="39">&lt;Luca Pipolo&gt;</tspan>
+                </text>
             </g>
         </g>
     </g>
