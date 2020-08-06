@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="300px" height="225px" viewBox="0 0 300 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>molecule/card</title>
+<svg width="300px" height="259px" viewBox="0 0 300 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>molecule/card/normal</title>
     <defs>
-        <rect id="path-1" x="0" y="0" width="300" height="225" rx="10"></rect>
-        <filter x="-25.0%" y="-20.0%" width="150.0%" height="166.7%" filterUnits="objectBoundingBox" id="filter-2">
+        <rect id="path-1" x="0" y="0" width="300" height="259" rx="10"></rect>
+        <filter x="-25.0%" y="-17.4%" width="150.0%" height="157.9%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="molecule/card">
+        <g id="molecule/card/normal">
             <g id="card/shape">
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
             </g>
-            <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
-                <tspan x="20" y="75">I can write beautiful objected-</tspan>
-                <tspan x="20" y="94">oriented PHP code. I’m up-to-date </tspan>
-                <tspan x="20" y="113">with the latest introduced features, </tspan>
-                <tspan x="20" y="132">I know how to stick to PSR best </tspan>
-                <tspan x="20" y="151">practices and I’m used to write </tspan>
-                <tspan x="20" y="170">PHPUnit tests. I’m also a big fan of </tspan>
-                <tspan x="20" y="189">the PEST test framework.</tspan>
+            <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                <tspan x="20" y="72">I can write beautiful objected-</tspan>
+                <tspan x="20" y="98">oriented PHP code. I’m up-to-date </tspan>
+                <tspan x="20" y="124">with the latest introduced features, </tspan>
+                <tspan x="20" y="150">I know how to stick to PSR best </tspan>
+                <tspan x="20" y="176">practices and I’m used to write </tspan>
+                <tspan x="20" y="202">PHPUnit tests. I’m also a big fan of </tspan>
+                <tspan x="20" y="228">the PEST test framework.</tspan>
             </text>
             <g id="card/heading" transform="translate(20.000000, 20.000000)">
                 <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="50" height="12"></rect>
