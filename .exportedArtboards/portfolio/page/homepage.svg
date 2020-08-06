@@ -1,27 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="414px" height="934px" viewBox="0 0 414 934" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="414px" height="1653px" viewBox="0 0 414 1653" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>page/homepage</title>
     <defs>
-        <rect id="path-1" x="0" y="0" width="265" height="50" rx="5"></rect>
-        <rect id="path-3" x="0" y="0" width="265" height="50" rx="5"></rect>
-        <rect id="path-5" x="0" y="0" width="414" height="60"></rect>
-        <filter x="-31.4%" y="-183.3%" width="162.8%" height="533.3%" filterUnits="objectBoundingBox" id="filter-6">
+        <rect id="path-1" x="0" y="0" width="370" height="194" rx="10"></rect>
+        <filter x="-20.3%" y="-23.2%" width="140.5%" height="177.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="370" height="194" rx="10"></rect>
+        <filter x="-20.3%" y="-23.2%" width="140.5%" height="177.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="370" height="194" rx="10"></rect>
+        <filter x="-20.3%" y="-23.2%" width="140.5%" height="177.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="265" height="50" rx="5"></rect>
+        <rect id="path-9" x="0" y="0" width="265" height="50" rx="5"></rect>
+        <rect id="path-11" x="0" y="0" width="414" height="60"></rect>
+        <filter x="-31.4%" y="-183.3%" width="162.8%" height="533.3%" filterUnits="objectBoundingBox" id="filter-12">
             <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="40" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-7" x="0" y="0" width="140" height="30" rx="5"></rect>
+        <rect id="path-13" x="0" y="0" width="140" height="30" rx="5"></rect>
     </defs>
     <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="page/homepage">
+            <g id="layout/section/skills" transform="translate(22.000000, 875.000000)">
+                <g id="skill/javascript" transform="translate(0.000000, 71.000000)">
+                    <g id="card/shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                        <tspan x="20" y="75">From prototypal inheritance to async/await, </tspan>
+                        <tspan x="20" y="94">from classes to destructuring assigmenets, </tspan>
+                        <tspan x="20" y="113">JavaScript has no secrets for me.</tspan>
+                        <tspan x="20" y="132">I made projects with vanilla JavaScript or using </tspan>
+                        <tspan x="20" y="151">modern frameworks such React and Gatsby.</tspan>
+                    </text>
+                    <g id="card/heading" transform="translate(20.000000, 20.000000)">
+                        <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="161.25" height="12"></rect>
+                        <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="0" y="19">JAVASCRIPT</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="skill/php" transform="translate(0.000000, 285.000000)">
+                    <g id="card/shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                        <tspan x="20" y="75">I can write beautiful objected-oriented PHP </tspan>
+                        <tspan x="20" y="94">code. I’m up-to-date with the latest introduced </tspan>
+                        <tspan x="20" y="113">features. I know how to stick to PSR best </tspan>
+                        <tspan x="20" y="132">practices and I’m used to write PHPUnit tests. </tspan>
+                        <tspan x="20" y="151">I’m also a big fan of the PEST test framework.</tspan>
+                    </text>
+                    <g id="card/heading" transform="translate(20.000000, 20.000000)">
+                        <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="62.5" height="12"></rect>
+                        <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="0" y="19">PHP</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="skill/css" transform="translate(0.000000, 499.000000)">
+                    <g id="card/shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                        <tspan x="20" y="75">I can write beautiful objected-oriented PHP </tspan>
+                        <tspan x="20" y="94">code. I’m up-to-date with the latest introduced </tspan>
+                        <tspan x="20" y="113">features, </tspan>
+                        <tspan x="20" y="132">I know how to stick to PSR best practices and </tspan>
+                        <tspan x="20" y="151">I’m used to write PHPUnit tests. I’m also a big </tspan>
+                        <tspan x="20" y="170">fan of the PEST test framework.</tspan>
+                    </text>
+                    <g id="card/heading" transform="translate(20.000000, 20.000000)">
+                        <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="60" height="12"></rect>
+                        <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="0" y="19">CSS</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="My-skills" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" fill="#000000">
+                    <tspan x="1" y="28">My skills</tspan>
+                </text>
+            </g>
             <g id="Group" transform="translate(22.000000, 107.000000)">
                 <g id="intro/cta" transform="translate(0.000000, 550.000000)">
                     <g id="atom/button/send-me-an-email" transform="translate(0.000000, 68.000000)">
-                        <mask id="mask-2" fill="white">
-                            <use xlink:href="#path-1"></use>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
                         </mask>
-                        <use id="button/mask" fill="#000000" xlink:href="#path-1"></use>
-                        <g id="button/content" mask="url(#mask-2)">
+                        <use id="button/mask" fill="#000000" xlink:href="#path-7"></use>
+                        <g id="button/content" mask="url(#mask-8)">
                             <g transform="translate(42.063492, 13.000000)">
                                 <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(156.279762, 0.000000)">
                                     <g id="atom/icon/envelope" fill="#FFFFFF">
@@ -35,11 +116,11 @@
                         </g>
                     </g>
                     <g id="atom/button/download-my-cv">
-                        <mask id="mask-4" fill="white">
-                            <use xlink:href="#path-3"></use>
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
                         </mask>
                         <rect stroke="#000000" x="0.5" y="0.5" width="264" height="49" rx="5"></rect>
-                        <g id="button/content" mask="url(#mask-4)">
+                        <g id="button/content" mask="url(#mask-10)">
                             <g transform="translate(44.351464, 13.000000)">
                                 <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(151.046025, 0.000000)">
                                     <g id="atom/icon/envelope" fill="#000000">
@@ -120,8 +201,8 @@
             </g>
             <g id="Group">
                 <g id="navigation/shape">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
                 </g>
                 <line x1="0" y1="64" x2="190" y2="64" id="navigation/load-bar" stroke="#000000" stroke-width="8" stroke-linecap="square"></line>
                 <g id="navigation/burger/open" transform="translate(372.000000, 21.000000)" stroke="#000000" stroke-linecap="square" stroke-width="2">
@@ -130,11 +211,11 @@
                     <line x1="6.59194921e-17" y1="0.5" x2="19" y2="0.5" id="burger/line"></line>
                 </g>
                 <g transform="translate(210.000000, 16.000000)" id="atom/button/small/icon">
-                    <mask id="mask-8" fill="white">
-                        <use xlink:href="#path-7"></use>
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
                     </mask>
-                    <use id="button/mask" fill="#000000" xlink:href="#path-7"></use>
-                    <g id="button/content" mask="url(#mask-8)">
+                    <use id="button/mask" fill="#000000" xlink:href="#path-13"></use>
+                    <g id="button/content" mask="url(#mask-14)">
                         <g transform="translate(12.000000, 5.000000)">
                             <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(96.000000, 0.000000)">
                                 <g id="atom/icon/envelope" fill="#FFFFFF">
