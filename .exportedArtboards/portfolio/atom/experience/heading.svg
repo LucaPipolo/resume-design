@@ -3,19 +3,19 @@
     <title>atom/experience/heading</title>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="atom/experience/heading">
-            <g id="Group" transform="translate(0.000000, 28.000000)">
-                <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="150" height="12"></rect>
-                <text id="Web-Developer" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+            <g id="heading/position" transform="translate(0.000000, 28.000000)">
+                <rect id="position/highlight" fill="#F7EB89" x="0" y="12" width="150" height="12"></rect>
+                <text id="position/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
                     <tspan x="0" y="19">Web Developer</tspan>
                 </text>
             </g>
-            <text id="Barcelona,-Spain" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
+            <text id="heading/location" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
                 <tspan x="0" y="94">Barcelona, Spain</tspan>
             </text>
-            <text id="netzstrategen-GmbH-·" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+            <text id="heading/company" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
                 <tspan x="0" y="72">netzstrategen GmbH · Full Time</tspan>
             </text>
-            <text id="2016-—-currently" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+            <text id="heading/time" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
                 <tspan x="0" y="15">2016 — currently</tspan>
             </text>
         </g>

@@ -23,7 +23,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="layout/section/skills">
-            <g id="skill/javascript" transform="translate(0.000000, 71.000000)">
+            <g id="skills/card" transform="translate(0.000000, 71.000000)">
                 <g id="card/shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
@@ -42,7 +42,7 @@
                     </text>
                 </g>
             </g>
-            <g id="skill/php" transform="translate(0.000000, 295.000000)">
+            <g id="skills/card" transform="translate(0.000000, 295.000000)">
                 <g id="card/shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
@@ -61,7 +61,7 @@
                     </text>
                 </g>
             </g>
-            <g id="skill/css" transform="translate(0.000000, 519.000000)">
+            <g id="skills/card" transform="translate(0.000000, 519.000000)">
                 <g id="card/shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
@@ -80,7 +80,7 @@
                     </text>
                 </g>
             </g>
-            <text id="My-skills" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" fill="#000000">
+            <text id="skills/heading" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" fill="#000000">
                 <tspan x="1" y="28">My skills</tspan>
             </text>
         </g>

@@ -16,7 +16,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="molecule/card/with-image">
-            <g id="Group" transform="translate(0.000000, 212.000000)">
+            <g id="card" transform="translate(0.000000, 212.000000)">
                 <g id="card/shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
@@ -35,7 +35,7 @@
                     </text>
                 </g>
             </g>
-            <g id="atom/button/large/normal" transform="translate(84.000000, 446.000000)">
+            <g id="card/button" transform="translate(84.000000, 446.000000)">
                 <mask id="mask-4" fill="white">
                     <use xlink:href="#path-3"></use>
                 </mask>
@@ -45,7 +45,7 @@
                     <tspan x="140.804688" y="31" font-family="ZapfDingbatsITC, .Apple Symbols Fallback" font-weight="normal">➝</tspan>
                 </text>
             </g>
-            <path d="M10,0 L360,0 C365.522847,-1.01453063e-15 370,4.4771525 370,10 L370,212 L370,212 L0,212 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Rectangle" fill="url(#pattern-5)"></path>
+            <path d="M10,0 L360,0 C365.522847,-1.01453063e-15 370,4.4771525 370,10 L370,212 L370,212 L0,212 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="card/image" fill="url(#pattern-5)"></path>
         </g>
     </g>
 </svg>
