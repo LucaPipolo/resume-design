@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="30px" viewBox="0 0 140 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>atom/button/icon/s</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="30" rx="5"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom/button/icon/s">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="button/mask" fill="#000000" xlink:href="#path-1"></use>
+            <g id="Group" mask="url(#mask-2)" fill="#FFFFFF" fill-opacity="0.2">
+                <g id="button/state">
+                    <rect id="state/hover" x="0" y="0" width="140" height="30"></rect>
+                </g>
+            </g>
+            <g id="button/content" mask="url(#mask-2)">
+                <g transform="translate(12.000000, 5.000000)">
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(96.000000, 0.000000)">
+                        <g id="button/icon" fill="#FFFFFF">
+                            <path d="M16.9,4 L3.9,4 C3.0715625,4 2.4,4.6715625 2.4,5.5 L2.4,14.5 C2.4,15.3284375 3.0715625,16 3.9,16 L16.9,16 C17.7284375,16 18.4,15.3284375 18.4,14.5 L18.4,5.5 C18.4,4.6715625 17.7284375,4 16.9,4 Z M16.9,5.5 L16.9,6.77515625 C16.1993125,7.34575 15.08225,8.233 12.6941563,10.1029688 C12.167875,10.5169375 11.125375,11.5114688 10.4,11.499875 C9.67475,11.5115938 8.63190625,10.5167813 8.10584375,10.1029688 C5.718125,8.23328125 4.60078125,7.34584375 3.9,6.77515625 L3.9,5.5 L16.9,5.5 Z M3.9,14.5 L3.9,8.6999375 C4.6160625,9.27028125 5.63153125,10.070625 7.1793125,11.282625 C7.86234375,11.8202813 9.0585,13.0071875 10.4,12.9999688 C11.7349063,13.0071875 12.9159063,11.8375 13.6204063,11.282875 C15.1681563,10.0709063 16.1839063,9.27034375 16.9,8.6999375 L16.9,14.5 L3.9,14.5 Z" id="icon/envelope"></path>
+                        </g>
+                    </g>
+                    <text id="button/text" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                        <tspan x="6.65234375" y="16" fill="#FFFFFF">Contact me</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

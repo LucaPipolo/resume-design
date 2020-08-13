@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="949px" height="332px" viewBox="0 0 949 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layout/section/skills/xl</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="300" height="259" rx="10"></rect>
+        <filter x="-25.0%" y="-17.4%" width="150.0%" height="157.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="300" height="259" rx="10"></rect>
+        <filter x="-25.0%" y="-17.4%" width="150.0%" height="157.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="300" height="259" rx="10"></rect>
+        <filter x="-25.0%" y="-17.4%" width="150.0%" height="157.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="layout/section/skills/xl">
+            <g id="skills/card" transform="translate(649.000000, 73.000000)">
+                <g id="card/shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="20" y="72">I can write beautiful objected-</tspan>
+                    <tspan x="20" y="98">oriented PHP code. I’m up-to-date </tspan>
+                    <tspan x="20" y="124">with the latest introduced features, I </tspan>
+                    <tspan x="20" y="150">know how to stick to PSR best </tspan>
+                    <tspan x="20" y="176">practices and I’m used to write </tspan>
+                    <tspan x="20" y="202">PHPUnit tests. I’m also a big fan of </tspan>
+                    <tspan x="20" y="228">the PEST test framework.</tspan>
+                </text>
+                <g id="card/heading" transform="translate(20.000000, 20.000000)">
+                    <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="48" height="12"></rect>
+                    <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="0" y="19">CSS</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(324.500000, 73.000000)">
+                <g id="card/shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="20" y="72">I can write beautiful objected-</tspan>
+                    <tspan x="20" y="98">oriented PHP code. I’m up-to-date </tspan>
+                    <tspan x="20" y="124">with the latest introduced features, </tspan>
+                    <tspan x="20" y="150">I know how to stick to PSR best </tspan>
+                    <tspan x="20" y="176">practices and I’m used to write </tspan>
+                    <tspan x="20" y="202">PHPUnit tests. I’m also a big fan of </tspan>
+                    <tspan x="20" y="228">the PEST test framework.</tspan>
+                </text>
+                <g id="card/heading" transform="translate(20.000000, 20.000000)">
+                    <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="50" height="12"></rect>
+                    <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="0" y="19">PHP</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="skills/card" transform="translate(0.000000, 73.000000)">
+                <g id="card/shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="20" y="72">From prototypal inheritance to </tspan>
+                    <tspan x="20" y="98">async/await, from classes to </tspan>
+                    <tspan x="20" y="124">destructuring assigmenets, </tspan>
+                    <tspan x="20" y="150">JavaScript has no secrets for me.</tspan>
+                    <tspan x="20" y="176">I made projects with vanilla </tspan>
+                    <tspan x="20" y="202">JavaScript or using modern </tspan>
+                    <tspan x="20" y="228">frameworks such React and Gatsby.</tspan>
+                </text>
+                <g id="card/heading" transform="translate(20.000000, 20.000000)">
+                    <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="129" height="12"></rect>
+                    <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="0" y="19">JAVASCRIPT</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="skills/heading" font-family="Roboto-Bold, Roboto" font-size="40" font-weight="bold" fill="#000000">
+                <tspan x="394" y="37">My skills</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

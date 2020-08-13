@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="717px" height="1088px" viewBox="0 0 717 1088" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layout/section/experience/xl</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="layout/section/experience/xl">
+            <g id="experience/card" transform="translate(0.000000, 870.000000)">
+                <text id="experience/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="333" y="16">• Creation of management platforms for small and </tspan>
+                    <tspan x="333" y="42">medium-sized companies, based on Ruby on Rails.</tspan>
+                    <tspan x="333" y="68">• Unit and E2E Testing of Ruby on Rails applications.</tspan>
+                    <tspan x="333" y="94">• Development of Front-End interfaces.</tspan>
+                </text>
+                <g id="experience/timeline-element" transform="translate(272.000000, 1.000000)">
+                    <circle id="timeline-element/oval" fill="#000000" cx="13" cy="8.62691131" r="13"></circle>
+                    <line x1="13" y1="8.62691131" x2="13.5" y2="216.668196" id="timeline-element/line" stroke-opacity="0.1" stroke="#000000" stroke-linecap="square"></line>
+                </g>
+                <g id="experience/heading" transform="translate(0.000000, 7.000000)">
+                    <g id="heading/position" transform="translate(3.000000, 28.000000)">
+                        <rect id="position/highlight" fill="#F7EB89" x="83" y="12" width="151" height="12"></rect>
+                        <text id="position/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="87.4882812" y="19">Web Developer</tspan>
+                        </text>
+                    </g>
+                    <text id="heading/location" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
+                        <tspan x="142.785156" y="94">Caserta, Italy</tspan>
+                    </text>
+                    <text id="heading/company" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                        <tspan x="78.6015625" y="72">esseduea · Full Time</tspan>
+                    </text>
+                    <text id="heading/time" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                        <tspan x="128.382812" y="15">2008 — 2012</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="experience/card" transform="translate(0.000000, 542.000000)">
+                <text id="experience/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="333" y="16">• Creation of static and dynamic websites.</tspan>
+                    <tspan x="333" y="42">• Creation of themes and plugins for PrestaShop.</tspan>
+                    <tspan x="333" y="68">• Creation of plugins for WordPress and </tspan>
+                    <tspan x="333" y="94">WooCommerce.</tspan>
+                    <tspan x="333" y="120">• Project management of small and medium size </tspan>
+                    <tspan x="333" y="146">projects.</tspan>
+                    <tspan x="333" y="172">• Team leading a working group of 3 people.</tspan>
+                </text>
+                <g id="Group" transform="translate(272.000000, 1.000000)">
+                    <circle id="timeline-element/oval" fill="#000000" cx="13" cy="13" r="13"></circle>
+                    <line x1="13" y1="13" x2="13.5" y2="326.5" id="timeline-element/line" stroke-opacity="0.1" stroke="#000000" stroke-linecap="square"></line>
+                </g>
+                <g id="experience/heading" transform="translate(0.000000, 7.000000)">
+                    <g id="heading/position" transform="translate(3.000000, 28.000000)">
+                        <rect id="position/highlight" fill="#F7EB89" x="83" y="12" width="151" height="12"></rect>
+                        <text id="position/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="87.4882812" y="19">Web Developer</tspan>
+                        </text>
+                    </g>
+                    <text id="heading/location" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
+                        <tspan x="147.748047" y="94">Naples, Italy</tspan>
+                    </text>
+                    <text id="heading/company" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                        <tspan x="55.28125" y="72">wi.iu’ upset® · Full Time</tspan>
+                    </text>
+                    <text id="heading/time" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                        <tspan x="128.382812" y="15">2012 — 2018</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="experience/card" transform="translate(0.000000, 112.000000)">
+                <text id="experience/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="333" y="16">• Creation of WordPress and WooCommerce plugins </tspan>
+                    <tspan x="333" y="42">based on OOP structures, using the latest PHP7 </tspan>
+                    <tspan x="333" y="68">functionalities.</tspan>
+                    <tspan x="333" y="94">• Creation of component based WordPress themes </tspan>
+                    <tspan x="333" y="120">using Flynt + Twig or Gutenberg.</tspan>
+                    <tspan x="333" y="146">• Identification of bottle necks and performance </tspan>
+                    <tspan x="333" y="172">improvements (nginx cache, Varnish, Redis, AMP, gzip </tspan>
+                    <tspan x="333" y="198">compression, etc.).</tspan>
+                    <tspan x="333" y="224">• Medium and large size projects project management </tspan>
+                    <tspan x="333" y="250">with Agile/Scrum methodologies.</tspan>
+                </text>
+                <g id="experience/timeline-element" transform="translate(272.000000, 1.000000)">
+                    <circle id="timeline-element/oval" fill="#000000" cx="13" cy="17.0948012" r="13"></circle>
+                    <line x1="13" y1="17.0948012" x2="13.5" y2="429.342508" id="timeline-element/line" stroke-opacity="0.1" stroke="#000000" stroke-linecap="square"></line>
+                </g>
+                <g id="Group" transform="translate(0.000000, 7.000000)">
+                    <g id="heading/position" transform="translate(3.000000, 28.000000)">
+                        <rect id="position/highlight" fill="#F7EB89" x="83" y="12" width="151" height="12"></rect>
+                        <text id="position/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                            <tspan x="87.4882812" y="19">Web Developer</tspan>
+                        </text>
+                    </g>
+                    <text id="heading/location" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
+                        <tspan x="120.137695" y="94">Barcelona, Spain</tspan>
+                    </text>
+                    <text id="heading/company" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                        <tspan x="0.1484375" y="72">netzstrategen GmbH · Full Time</tspan>
+                    </text>
+                    <text id="heading/time" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                        <tspan x="100.84375" y="15">2016 — currently</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="experience/heading" transform="translate(69.000000, 0.000000)" fill="#000000" font-family="Roboto-Bold, Roboto" font-size="40" font-weight="bold">
+                <text id="heading/education" fill-opacity="0.2">
+                    <tspan x="234" y="37">Education</tspan>
+                </text>
+                <text id="heading/experience">
+                    <tspan x="0" y="37">Experience</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

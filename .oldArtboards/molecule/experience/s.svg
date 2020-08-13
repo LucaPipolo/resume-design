@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="374px" viewBox="0 0 370 374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>molecule/experience/s</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="molecule/experience/s">
+            <text id="experience/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                <tspan x="0" y="129">• Creation of WordPress and WooCommerce plugins </tspan>
+                <tspan x="0" y="155">based on OOP structures, using the latest PHP7 </tspan>
+                <tspan x="0" y="181">functionalities.</tspan>
+                <tspan x="0" y="207">• Creation of component based WordPress themes </tspan>
+                <tspan x="0" y="233">using Flynt + Twig or Gutenberg.</tspan>
+                <tspan x="0" y="259">•</tspan>
+                <tspan x="5.171875" y="259" font-family="LucidaGrande, Lucida Grande" font-weight="normal"> </tspan>
+                <tspan x="10.234375" y="259">Identification of bottle necks and performance </tspan>
+                <tspan x="0" y="285">improvements (nginx cache, Varnish, Redis, AMP, </tspan>
+                <tspan x="0" y="311">gzip compression, etc.).</tspan>
+                <tspan x="0" y="337">• Medium and large size projects project </tspan>
+                <tspan x="0" y="363">management with Agile/Scrum methodologies.</tspan>
+            </text>
+            <g id="Group">
+                <g id="heading/position" transform="translate(0.000000, 28.000000)">
+                    <rect id="position/highlight" fill="#F7EB89" x="0" y="12" width="150" height="12"></rect>
+                    <text id="position/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
+                        <tspan x="0" y="19">Web Developer</tspan>
+                    </text>
+                </g>
+                <text id="heading/location" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill="#6D7278">
+                    <tspan x="0" y="94">Barcelona, Spain</tspan>
+                </text>
+                <text id="heading/company" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" fill="#000000">
+                    <tspan x="0" y="72">netzstrategen GmbH · Full Time</tspan>
+                </text>
+                <text id="heading/time" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="15">2016 — currently</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

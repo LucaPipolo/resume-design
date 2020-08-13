@@ -16,19 +16,19 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="molecule/card/with-image">
-            <g id="card" transform="translate(0.000000, 212.000000)">
-                <g id="card/shape">
+            <g id="card/content" transform="translate(-1.000000, 212.000000)">
+                <g id="content/shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
                 </g>
-                <text id="card/content" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
-                    <tspan x="25" y="72">There are plenty of resources out there that </tspan>
-                    <tspan x="25" y="98">cover the basics of Vim and I don't want to </tspan>
-                    <tspan x="25" y="124">just do another rewrite of those here. Instead, </tspan>
-                    <tspan x="25" y="150">I want to share some quick tips that I've </tspan>
-                    <tspan x="25" y="176">learned from others while using…</tspan>
+                <text id="content/text" font-family="Roboto-Light, Roboto" font-size="16" font-weight="300" line-spacing="26" fill="#000000">
+                    <tspan x="26" y="72">There are plenty of resources out there that </tspan>
+                    <tspan x="26" y="98">cover the basics of Vim and I don't want to </tspan>
+                    <tspan x="26" y="124">just do another rewrite of those here. Instead, </tspan>
+                    <tspan x="26" y="150">I want to share some quick tips that I've </tspan>
+                    <tspan x="26" y="176">learned from others while using…</tspan>
                 </text>
-                <g id="card/heading" transform="translate(25.000000, 20.000000)">
+                <g id="content/heading" transform="translate(26.000000, 20.000000)">
                     <rect id="heading/highlight" fill="#F7EB89" x="0" y="12" width="135" height="12"></rect>
                     <text id="heading/text" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#000000">
                         <tspan x="0" y="19">My Vim Tips</tspan>
@@ -41,8 +41,8 @@
                 </mask>
                 <use id="button/mask" fill="#000000" xlink:href="#path-3"></use>
                 <text id="button/text" mask="url(#mask-4)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="59" y="31">Read more </tspan>
-                    <tspan x="140.804688" y="31" font-family="ZapfDingbatsITC, .Apple Symbols Fallback" font-weight="normal">➝</tspan>
+                    <tspan x="52.171875" y="31">Read more </tspan>
+                    <tspan x="133.976562" y="31" font-family="ZapfDingbatsITC, .Apple Symbols Fallback" font-weight="normal">➝</tspan>
                 </text>
             </g>
             <path d="M10,0 L360,0 C365.522847,-1.01453063e-15 370,4.4771525 370,10 L370,212 L370,212 L0,212 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="card/image" fill="url(#pattern-5)"></path>
