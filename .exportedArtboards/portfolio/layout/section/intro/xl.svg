@@ -93,7 +93,7 @@
                 </g>
             </g>
             <g id="intro/content" fill="#000000">
-                <text id="content/content" font-family="Roboto-Light, Roboto" font-size="30" font-weight="300" line-spacing="42">
+                <text id="content/text" font-family="Roboto-Light, Roboto" font-size="30" font-weight="300" line-spacing="42">
                     <tspan x="148.432617" y="139">I am a passionate and versatile Web Developer.</tspan>
                     <tspan x="195.007324" y="211">I love to write elegant and efficient code.</tspan>
                     <tspan x="26.1108398" y="283">Choosing the name of a variable, creating a performance function, </tspan>

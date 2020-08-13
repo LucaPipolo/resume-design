@@ -494,16 +494,10 @@
                 </g>
                 <g id="intro/content" fill="#000000">
                     <text id="content/text" font-family="Roboto-Light, Roboto" font-size="22" font-weight="300">
-                        <tspan x="0" y="88">I am a passionate and versatile Web </tspan>
-                        <tspan x="0" y="113">Developer.</tspan>
-                        <tspan x="0" y="168">I love to write elegant and efficient </tspan>
-                        <tspan x="0" y="193">code.</tspan>
-                        <tspan x="0" y="248">Choosing the name of a variable, </tspan>
-                        <tspan x="0" y="273">creating a performance function, </tspan>
-                        <tspan x="0" y="298">clearly structuring the components of </tspan>
-                        <tspan x="0" y="323">a website, writing an effective test. </tspan>
-                        <tspan x="0" y="348">Isn't that art? </tspan>
-                        <tspan x="130.173828" y="348" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
+                        <tspan x="0" y="88">I am a passionate and versatile Web Developer.</tspan>
+                        <tspan x="0" y="143">I love to write elegant and efficient code.</tspan>
+                        <tspan x="0" y="198">Choosing the name of a variable, creating a performance function, clearly structuring the components of a website, writing an effective test. Isn't that art? </tspan>
+                        <tspan x="1469.77832" y="198" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
                     </text>
                     <text id="content/heading" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold">
                         <tspan x="0" y="39">&lt;Luca Pipolo&gt;</tspan>

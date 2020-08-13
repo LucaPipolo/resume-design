@@ -92,17 +92,15 @@
                     </text>
                 </g>
             </g>
-            <g id="intro/content" fill="#000000">
-                <text id="content/content" font-family="Roboto-Light, Roboto" font-size="30" font-weight="300" line-spacing="42">
-                    <tspan x="148.432617" y="139">I am a passionate and versatile Web Developer.</tspan>
-                    <tspan x="195.007324" y="211">I love to write elegant and efficient code.</tspan>
-                    <tspan x="26.1108398" y="283">Choosing the name of a variable, creating a performance function, </tspan>
-                    <tspan x="15.0292969" y="325">clearly structuring the components of a website, writing an effective </tspan>
-                    <tspan x="321.533203" y="367">test. Isn't that art? </tspan>
-                    <tspan x="563.466797" y="367" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
+            <g id="intro/content" transform="translate(-560.000000, 0.000000)" fill="#000000">
+                <text id="content/text" font-family="Roboto-Light, Roboto" font-size="30" font-weight="300" line-spacing="42">
+                    <tspan x="708.432617" y="139">I am a passionate and versatile Web Developer.</tspan>
+                    <tspan x="755.007324" y="211">I love to write elegant and efficient code.</tspan>
+                    <tspan x="0.378417969" y="283">Choosing the name of a variable, creating a performance function, clearly structuring the components of a website, writing an effective test. Isn't that art? </tspan>
+                    <tspan x="2004.62158" y="283" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">😁</tspan>
                 </text>
                 <text id="content/heading" font-family="Roboto-Bold, Roboto" font-size="60" font-weight="bold">
-                    <tspan x="268" y="56">&lt;Luca Pipolo&gt;</tspan>
+                    <tspan x="828" y="56">&lt;Luca Pipolo&gt;</tspan>
                 </text>
             </g>
         </g>
